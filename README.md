@@ -1,6 +1,6 @@
 <p align="center">
     Jogo do número secreto
-    <img src=".assets/preview.JPG" alt="Preview do projeto">
+    <img src="assets/preview.JPG" alt="Preview do projeto">
 </p>
 
 >Status: concluído
@@ -21,3 +21,4 @@ Esse foi um projeto desenvolvido no curso de Aplicações Web com JavaScript da 
 - Git
 - GitHub
 
+Você pode acessar ao projeto através [deste link](https://vanilson11.github.io/jogo-numero-secreto/)
